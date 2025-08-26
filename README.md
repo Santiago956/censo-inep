@@ -33,6 +33,13 @@ Alguns insights encontrados na análise:
   - Matplotlib & Seaborn (visualização de dados)
 - **Jupyter Notebook** (documentação e execução da análise)
 
+## 🚀 Melhorias Futuras
+
+Para a evolução desse projeto, pretendo implementar as seguintes mudanças:
+
+- **Funções reutilizáveis para visualizações**: criar funções que gerem gráficos específicos de forma automática e reprodutível.
+- **Dashboard interativo**: desenvolver dashboards em Power BI ou Streamlit para permitir a exploração dos dados com visualizações interativas.
+
 ## 🧑‍💻 Autor
 
 **Pedro Paulo**
