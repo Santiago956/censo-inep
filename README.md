@@ -1,7 +1,6 @@
 # 🎒 Análise Exploratória de Dados - INEP
 
-Este projeto tem como objetivo explorar dados educacionais brasileiros fornecidos pelo **INEP**, buscando compreender padrões, tendências e desigualdades na educação básica nacional.  
-A análise foi realizada em Python com bibliotecas para manipulação de dados, e documentada em um Notebook para reprodutibilidade e clareza.
+Este projeto tem como objetivo explorar dados educacionais brasileiros fornecidos pelo INEP, buscando compreender padrões, tendências e desigualdades na educação básica nacional. A análise foi realizada em Python com bibliotecas para manipulação de dados e documentada em um Notebook para reprodutibilidade e clareza.
 
 ## 🗂️ Dados
 
