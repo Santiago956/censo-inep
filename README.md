@@ -45,4 +45,4 @@ Para a evolução desse projeto, pretendo implementar as seguintes mudanças:
 **Pedro Paulo**
 
 Estudante de Análise e Desenvolvimento de Sistemas  
-[LinkedIn](https://www.linkedin.com/in/seu-linkedin) | [GitHub](https://github.com/seu-usuario)
+[LinkedIn](https://www.linkedin.com/in/ppsantiago) | [GitHub](https://github.com/Santiago956)
